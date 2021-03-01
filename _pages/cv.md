@@ -1,1 +1,2 @@
-[my link](file:../files/caganze_res_updated.pdf)
+<object data="../files/caganze_res_updated.pdf" type="../files/caganze_res_updated.pdf" width="100%"> 
+</object>
