@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christian Aganze"
 title_separator          : "-"
 name                     : &name "Christian Aganze"
-description              : &description "I am a PhD candidate in Physics at UC San Diego interested in low-mass stars and brown dwarfs"
+description              : &description "website"
 url                      : https://caganze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caganze/caganze.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Christian Aganze"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "I am a PhD candidate in Physics at UC San Diego interested in low-mass stars and brown dwarfs"
+  location         : "San Diego, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

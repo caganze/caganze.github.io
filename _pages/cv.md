@@ -1,3 +1,3 @@
 Link to my CV
-<object data="../files/caganze_res_updated.pdf" type="../files/caganze_res_updated.pdf" width="100%"> 
-</object>
+
+<embed src="https://drive.google.com/file/d/17ZIA2v2KWIqBxWXwVSkgm0TmudEzGzmt/view?usp=sharing" width="500" height="375">

@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on NASA ADS [title](https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Aganze%2C%20Christian%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+You can find my articles on [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Aganze%2C%20Christian%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
