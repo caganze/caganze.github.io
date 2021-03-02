@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 Email: caganze@ucsd.edu\
+Github: caganze\
 Building: Science and Engineering Research Facility (SERF, 3rd Floor)
