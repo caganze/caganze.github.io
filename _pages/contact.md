@@ -7,5 +7,5 @@ redirect_from:
   - /findme
 ---
 
-Email: caganze@ucsd.edu
+Email: caganze@ucsd.edu\
 Building: Science and Engineering Research Facility (SERF, 3rd Floor)
