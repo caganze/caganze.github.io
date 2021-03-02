@@ -12,7 +12,7 @@ I am a PhD candidate at UC San Diego interested working with low-mass stars and 
 
 # UCDs in Deep HST Fields
 
-WISPS and 3D-HST (Atek et al. 2010, Momcheva at al. 2016, Skelton et al. 2014) use HST/WFC3 (Kimble et al. 2008)  to obtain photometry and low-resolution (R≈130) near-infrared spectra of more than 250,000 sources. These surveys were designed to measure star-formation in high redshift galaxies (z>2) by measuring red shifted emission lines. The observations are taken in “parallel” mode, meaning that WFC3 operates concurrently with another instrument, allowing pointings in multiple directions, primarily at high Galactic latitudes (\lvert b \rvert ≥ 20 deg)
+[WISPS](http://wisps.ipac.caltech.edu/Background.html) and [3D-HST](https://archive.stsci.edu/prepds/3d-hst/) (Atek et al. 2010, Momcheva at al. 2016, Skelton et al. 2014) use HST/WFC3 (Kimble et al. 2008)  to obtain photometry and low-resolution (R≈130) near-infrared spectra of more than 250,000 sources. These surveys were designed to measure star-formation in high redshift galaxies (z>2) by measuring red shifted emission lines. The observations are taken in “parallel” mode, meaning that WFC3 operates concurrently with another instrument, allowing pointings in multiple directions, primarily at high Galactic latitudes (\lvert b \rvert ≥ 20 deg)
 
 ![img](../files/example_spectra_and_image.jpg)
  Left: a processed image for a single pointing in the 3D-HST survey with the F160W filter (1.6 µm). The faintest stars in this image have F160W ≈26. Right: a G141 (1.1-1.7 µm) spectrum of the same pointing; the linear features are the dispersed spectra of each object. 
