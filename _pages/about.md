@@ -36,7 +36,8 @@ The purpose of my study using data from these surveys is to identify a robust sp
 The next generation of wide-field surveys will detect millions of UCDs at distances up to ~10 kpc and will revolutionize the study of these objects as a Galactic population. The advances will be achieved by the next generation of survey facilities with greater sensitivities at longer wavelengths (e.g. SPHEREx to 5 µm, JWST to 28 µm), enabling studies of spectral features not previously explored. Multi-epoch data will also provide astrometric information that can be used to measure distances and isolate populations by their motions. [Link to AAS poster](https://aas237-aas.ipostersessions.com/default.aspx?s=2D-37-9B-ED-84-A3-58-9C-39-DB-DE-0B-A2-13-B7-27)
 
 Predicting the science yields of these surveys requires predicting the UCD star counts and populations, and how they may vary based on different model assumptions. The purpose of this study is to evaluate the UCD yields for future surveys conducted with the James Webb Space Telescope, the Nancy Grace Roman Space Telescope, the Euclid Observatory, the Vera Rubin observatory, and SPHEREx for different assumptions about UCD population properties, Galactic structure, evolutionary, multiplicity, and metallicity, and determine which facilities are best suited for key UCD investigations. 
-![img](../files/surveys.jpeg)
+
+<img src="../files/surveys.jpeg" alt="drawing" width="200"/>
 
 ---
 # Metal-Poor M Dwarfs
