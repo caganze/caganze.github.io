@@ -46,6 +46,6 @@ Predicting the science yields of these surveys requires predicting the UCD star 
 ## GJ 660.1AB System 
 GJ 660.1AB is a binary system (M1 and M7 secondary) previously overlooked, we showed that the peculiarities in the spectrum of the secondary can be explained by its low metallicity. [Link to paper](https://arxiv.org/abs/1512.08659)
 
-<img src="../files/gj660.jpg" alt="drawing" width="600"/>
+<img src="../files/gj660.jpg" alt="drawing" width="300"/>
 
 Moderate resolution SpeX SXD spectrum of the primary showing prominent atomic and molecular features in its atmosphere
