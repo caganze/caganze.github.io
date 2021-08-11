@@ -22,16 +22,7 @@ I discover distant (~1 kpc) UCDs in deep surveys, and run simulations that inclu
 Evolutionary models of Baraffe et al. 2003 showing UCD evolution with time
 
 ---
-
-<a href="#" title="Brown Dwarfs on a Galactic Scale">hover here</a>
-<style type="text/css">
-  a[title]:hover:after{
-    content: attr(title);
-    background: red; 
-    position: absolute;
-    left: 5%;
-    top: 10%;}
- </style>
+# Brown Dwarfs on a Galactic Scale
 
 ## UCDs in Deep HST Fields
 
