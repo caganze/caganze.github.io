@@ -17,7 +17,7 @@ My research mostly focuses on doing Galactic Archeology with ultracool dwarfs (U
 
 I discover distant (~1 kpc) UCDs in deep surveys, and run simulations that include to test  assumptions about the initial mass function, star formation history, multiplicity statistics, Galactic structure and UCD evolutionary models. I also look for interesting populations e.g metal-poor "subwdarfs" that are old and will give us a clue about old stellar populations in the Galaxy. Some of these subdarfs might even belong to the Milky Way's halo largely formed from merger events with satellite galaxies.
  
-![img](../files/ucds.001.jpeg)
+![img](../files/ucds.jpeg)
 Evolutionary models of Baraffe et al. 2003 showing UCD evolution with time
 
 ---
