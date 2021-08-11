@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
-
 My research mostly focuses on doing Galactic Archeology with ultracool dwarfs (UCDS). UCDs are the lowest-mass objects (M<0.1 Msun; M, L, T, Y spectral types) in the Milky Way. Most Galactic archeologists use bright F, G, K stars and/or giants to probe the formation history and evolution of our Galaxy, but UCDs present a potentially more enriching picture of Milky Way since they far outnumber these other "stars" in the Galaxy (~50% of all the stars). Some UCDs don't fuse Hydrogen in their cores so they cool down with time as they radiate away their internal heat.
 
 I discover distant (~1 kpc) UCDs in deep surveys, and run simulations that include to test  assumptions about the initial mass function, star formation history, multiplicity statistics, Galactic structure and UCD evolutionary models. I also look for interesting populations e.g metal-poor "subwdarfs" that are old and will give us a clue about old stellar populations in the Galaxy. Some of these subdarfs might even belong to the Milky Way's halo largely formed from merger events with satellite galaxies.
@@ -34,6 +33,3 @@ Predicting the science yields of these surveys requires predicting the UCD star 
 GJ 660.1AB is a binary system (M1 and M7 secondary) previously overlooked, we showed that the peculiarities in the spectrum of the secondary can be explained by its low metallicity. Link to the [paper](https://arxiv.org/abs/1512.08659)
 ![img](../files/gj660.jpg)
 Moderate resolution SpeX SXD spectrum of the primary showing prominent atomic and molecular features in its atmosphere
-
-
-
