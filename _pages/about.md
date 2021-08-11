@@ -37,7 +37,7 @@ The next generation of wide-field surveys will detect millions of UCDs at distan
 
 Predicting the science yields of these surveys requires predicting the UCD star counts and populations, and how they may vary based on different model assumptions. The purpose of this study is to evaluate the UCD yields for future surveys conducted with the James Webb Space Telescope, the Nancy Grace Roman Space Telescope, the Euclid Observatory, the Vera Rubin observatory, and SPHEREx for different assumptions about UCD population properties, Galactic structure, evolutionary, multiplicity, and metallicity, and determine which facilities are best suited for key UCD investigations. 
 
-<img src="../files/surveys.jpeg" alt="drawing" width="200"/>
+<img src="../files/surveys.jpeg" alt="drawing" width="600"/>
 
 ---
 # Metal-Poor M Dwarfs
