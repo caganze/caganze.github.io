@@ -22,7 +22,17 @@ I discover distant (~1 kpc) UCDs in deep surveys, and run simulations that inclu
 Evolutionary models of Baraffe et al. 2003 showing UCD evolution with time
 
 ---
-# Brown Dwarfs on a Galactic Scale
+
+<a href="#" title="Brown Dwarfs on a Galactic Scale">hover here</a>
+<style type="text/css">
+  a[title]:hover:after{
+    content: attr(title);
+    background: red; 
+    position: absolute;
+    left: 5%;
+    top: 10%;}
+ </style>
+
 ## UCDs in Deep HST Fields
 
 [WISPS](http://wisps.ipac.caltech.edu/Background.html) and [3D-HST](https://archive.stsci.edu/prepds/3d-hst/) use HST/WFC3 instrument to obtain photometry and low-resolution (R≈130) near-infrared spectra of more than 250,000 sources. These surveys were designed to measure star-formation in high redshift galaxies (z>2) by measuring red shifted emission lines. The observations are taken in “parallel” mode, meaning that WFC3 operates concurrently with another instrument, allowing pointings in multiple directions, primarily at high Galactic latitudes ( ≥ 20 deg). 
