@@ -50,6 +50,7 @@ Predicting the science yields of these surveys requires predicting the UCD star 
 Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the dectability of these gaps in nearby galaxis with the Nancy Grace Roman Telescope.
 
 <img src="../files/streams.gif" alt="drawing" width="600"/>
+
 This gif shows a simulation stellar stream in our Galaxy being perturbed by a 10^9 solar mass subhalo. It's made using the [Gala code](http://gala.adrian.pw/en/latest/) 
 
 ----
