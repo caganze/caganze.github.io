@@ -45,8 +45,16 @@ Predicting the science yields of these surveys requires predicting the UCD star 
 
 <img src="../files/surveys.jpeg" alt="drawing" width="600"/>
 ---
-# Metal-Poor M Dwarfs
-## GJ 660.1AB System 
+
+# Gaps in Globular Cluster Stellar Streams 
+Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the dectability of these gaps in nearby galaxis with the Nancy Grace Roman Telescope.
+
+<img src="../files/streams.gif" alt="drawing" width="600"/>
+This gif shows a simulation stellar stream in our Galaxy being perturbed by a 10^9 solar mass subhalo. It's made using the [Gala code](http://gala.adrian.pw/en/latest/) 
+
+----
+# M Dwarfs
+## Metal Poor GJ 660.1AB System 
 GJ 660.1AB is a binary system (M1 and M7 secondary) previously overlooked, we showed that the peculiarities in the spectrum of the secondary can be explained by its low metallicity. [Link to paper](https://arxiv.org/abs/1512.08659)
 
 <img src="../files/gj660.jpg" alt="drawing" width="300"/>
