@@ -30,7 +30,7 @@ Evolutionary models of Baraffe et al. 2003 showing UCD evolution with time
 
 The purpose of my study using data from these surveys is to identify a robust spectroscopic sample of UCDs at large distances from the WISPS and 3D-HST Surveys, and use Galactic structure and evolutionary models to constrain on the spatial distribution and age of the UCD thin disk population. 
 
-<img src="../files/spectrum47.jpg" alt="drawing" width="600"/>
+<img src="../files/spectrum47.jpg" alt="drawing" width="400"/>
 
  Top Left: Cutout from a processed image of an L dwarf in the WISP survey with the F140W filter (1.4 µm). Top Right: a 2D G141 (1.1-1.7 µm) spectrum of the same pointing. Bottom: 1D- Spectrum fitted to best-match spectral templates of dwarfs and metal-poor subdwarfs.
 
@@ -44,8 +44,8 @@ The next generation of wide-field surveys will detect millions of UCDs at distan
 Predicting the science yields of these surveys requires predicting the UCD star counts and populations, and how they may vary based on different model assumptions. The purpose of this study is to evaluate the UCD yields for future surveys conducted with the James Webb Space Telescope, the Nancy Grace Roman Space Telescope, the Euclid Observatory, the Vera Rubin observatory, and SPHEREx for different assumptions about UCD population properties, Galactic structure, evolutionary, multiplicity, and metallicity, and determine which facilities are best suited for key UCD investigations. 
 
 <img src="../files/surveys.jpeg" alt="drawing" width="600"/>
----
 
+---
 # Galactic Dynamics: Gaps in Globular Cluster Stellar Streams 
 
 Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the dectability of these gaps in nearby galaxis with the Nancy Grace Roman Telescope. [Link to talk](https://www.youtube.com/watch?v=maYUxaOCOHA&list=PLWAzLum_3a180ECznso6HvwstZthGSoEZ&index=21&ab_channel=SimonsFoundation)
