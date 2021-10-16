@@ -22,7 +22,7 @@ I discover distant (~1 kpc) UCDs in deep surveys, and run simulations that inclu
 Evolutionary models of Baraffe et al. 2003 showing UCD evolution with time
 
 ---
-# Brown Dwarfs on a Galactic Scale
+# Galactic Archeology: Brown Dwarfs on a Galactic Scale
 
 ## UCDs in Deep HST Fields
 
@@ -30,9 +30,9 @@ Evolutionary models of Baraffe et al. 2003 showing UCD evolution with time
 
 The purpose of my study using data from these surveys is to identify a robust spectroscopic sample of UCDs at large distances from the WISPS and 3D-HST Surveys, and use Galactic structure and evolutionary models to constrain on the spatial distribution and age of the UCD thin disk population. 
 
-<img src="../files/example_spectra_and_image.jpg" alt="drawing" width="600"/>
+<img src="../files/spectrum47.jpg" alt="drawing" width="600"/>
 
- Left: a processed image for a single pointing in the 3D-HST survey with the F160W filter (1.6 µm). The faintest stars in this image have F160W ≈26. Right: a G141 (1.1-1.7 µm) spectrum of the same pointing; the linear features are the dispersed spectra of each object. 
+ Top Left: Cutout from a processed image of an L dwarf in the WISP survey with the F140W filter (1.4 µm). Top Right: a 2D G141 (1.1-1.7 µm) spectrum of the same pointing. Bottom: 1D- Spectrum fitted to best-match spectral templates of dwarfs and metal-poor subdwarfs.
 
 ---
 
@@ -46,7 +46,8 @@ Predicting the science yields of these surveys requires predicting the UCD star 
 <img src="../files/surveys.jpeg" alt="drawing" width="600"/>
 ---
 
-# Gaps in Globular Cluster Stellar Streams 
+# Galactic Dynamics: Gaps in Globular Cluster Stellar Streams 
+
 Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the dectability of these gaps in nearby galaxis with the Nancy Grace Roman Telescope. [Link to talk](https://www.youtube.com/watch?v=maYUxaOCOHA&list=PLWAzLum_3a180ECznso6HvwstZthGSoEZ&index=21&ab_channel=SimonsFoundation)
 
 <img src="../files/streams.gif" alt="drawing" width="600"/>
@@ -54,7 +55,7 @@ Cosmological simulations that include dark matter predict the existence of low-m
 This gif shows a simulation stellar stream in our Galaxy being perturbed by a 10^9 solar mass subhalo. It's made using the [Gala code](http://gala.adrian.pw/en/latest/) 
 
 ----
-# M Dwarfs
+# Local M Dwarfs
 ## Metal Poor GJ 660.1AB System 
 GJ 660.1AB is a binary system (M1 and M7 secondary) previously overlooked, we showed that the peculiarities in the spectrum of the secondary can be explained by its low metallicity. [Link to paper](https://arxiv.org/abs/1512.08659)
 
