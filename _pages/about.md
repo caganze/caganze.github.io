@@ -35,7 +35,7 @@ The purpose of my study using data from these surveys is to identify a robust sp
  Top Left: Cutout from a processed image of an L dwarf in the WISP survey with the F140W filter (1.4 µm). Top Right: a 2D G141 (1.1-1.7 µm) spectrum of the same pointing. Bottom: 1D- Spectrum fitted to best-match spectral templates of dwarfs and metal-poor subdwarfs.
 
 ---
-
+[Link to paper](https://arxiv.org/abs/2110.07672)
 Link to CoolStars Poster: [Finding Ultracool Dwarfs in Deep HST-WFC3 Surveys with Machine Learning](https://zenodo.org/record/4566990#.YR_e0tNKj0o)
 
 ## Predicting Yields for the Next Generation of Surveys 
