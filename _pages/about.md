@@ -48,7 +48,7 @@ Predicting the science yields of these surveys requires predicting the UCD star 
 ---
 # Galactic Dynamics: Gaps in Globular Cluster Stellar Streams 
 
-Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the dectability of these gaps in nearby galaxies with the Nancy Grace Roman Telescope. [Link to talk](https://www.youtube.com/watch?v=maYUxaOCOHA&list=PLWAzLum_3a180ECznso6HvwstZthGSoEZ&index=21&ab_channel=SimonsFoundation)
+Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the dectability of these gaps in nearby galaxies with the Nancy Grace Roman Telescope. [Link to talk](https://www.youtube.com/watch?v=maYUxaOCOHA&list=PLWAzLum_3a180ECznso6HvwstZthGSoEZ&index=21&ab_channel=SimonsFoundation) [Link to poster](https://aas239-aas.ipostersessions.com/default.aspx?s=2D-0E-38-DD-FF-45-EE-49-7A-47-A8-3F-3C-14-78-BE)
 
 <img src="../files/streams.gif" alt="drawing" width="600"/>
 
