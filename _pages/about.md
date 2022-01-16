@@ -10,9 +10,7 @@ redirect_from:
 I am a PhD candidate at UC San Diego interested working on low-mass stars and brown dwarfs (ultracool dwarfs), galactic archeology and dynamics. I'm part of the [Cool Stars Lab](http://pono.ucsd.edu/~adam/wordpress/) under Prof. Adam Burgasser. 
 
 
-
 ---
-
 My research mostly focuses on doing galactic archeology with ultracool dwarfs (UCDS). UCDs are the lowest-mass objects (M<0.1 Msun; M, L, T, Y spectral types) in the Milky Way. Most galactic archeologists use bright F, G, K stars and/or giants to probe the formation history and evolution of our Galaxy, but UCDs present a potentially more enriching picture of Milky Way since they far outnumber these other "stars" in the Galaxy (~50% of all the stars). Some UCDs don't fuse Hydrogen in their cores so they cool down with time as they radiate away their internal heat.
 
 I discover distant (~1 kpc) UCDs in deep surveys, and run simulations that include to test  assumptions about the initial mass function, star formation history, multiplicity statistics, Galactic structure and UCD evolutionary models. I also look for interesting populations e.g metal-poor "subwdarfs" that are old and will give us a clue about old stellar populations in the Galaxy. 
@@ -49,7 +47,7 @@ Predicting the science yields of these surveys requires predicting the UCD star 
 ---
 # Galactic Dynamics: Gaps in Globular Cluster Stellar Streams 
 
-Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the dectability of these gaps in nearby galaxies with the Nancy Grace Roman Telescope. [Link to talk](https://www.youtube.com/watch?v=maYUxaOCOHA&list=PLWAzLum_3a180ECznso6HvwstZthGSoEZ&index=21&ab_channel=SimonsFoundation) [Link to poster](https://aas239-aas.ipostersessions.com/default.aspx?s=2D-0E-38-DD-FF-45-EE-49-7A-47-A8-3F-3C-14-78-BE)
+Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the dectability of these gaps in nearby galaxies with the Nancy Grace Roman Telescope. This research is done in collaboration with [Dr. Sarah Pearson](http://drsarahpearson.com/), [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/) and [Prof. Kathryn V. Johnston](http://user.astro.columbia.edu/~kvj/) [Link to talk](https://www.youtube.com/watch?v=maYUxaOCOHA&list=PLWAzLum_3a180ECznso6HvwstZthGSoEZ&index=21&ab_channel=SimonsFoundation) [Link to poster](https://aas239-aas.ipostersessions.com/default.aspx?s=2D-0E-38-DD-FF-45-EE-49-7A-47-A8-3F-3C-14-78-BE)
 
 <img src="../files/streams.gif" alt="drawing" width="600"/>
 
