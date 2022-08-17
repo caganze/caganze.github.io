@@ -65,7 +65,7 @@ Links
 
 
 ---
-# Galactic Dynamics: Gaps in Globular Cluster Stellar Streams 
+# Galactic Dynamics: Gaps in Globular Cluster Stellar Streams as Probes for Dark Matter in M31 and Other Galaxies
 
 Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the detectability of these gaps in nearby galaxies with the Nancy Grace Roman Telescope. 
 
