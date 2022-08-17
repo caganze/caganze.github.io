@@ -69,11 +69,11 @@ Links
 
 Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the detectability of these gaps in nearby galaxies with the Nancy Grace Roman Telescope. 
 
-This research is done in collaboration with [Dr. Sarah Pearson](http://drsarahpearson.com/), [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/) and [Prof. Kathryn V. Johnston](http://user.astro.columbia.edu/~kvj/) and it started at the summer school on Galactic dynamics held in 2021 at the Flatiron Institute in NYC
+This research is done in collaboration with [Dr. Sarah Pearson](http://drsarahpearson.com/), [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/), [Prof. Kathryn V. Johnston](http://user.astro.columbia.edu/~kvj/) and [Dr. Gabriella Contardo](https://contardog.github.io/) and it started at the summer school on Galactic dynamics held in 2021 at the Flatiron Institute in NYC
 
 Links
   * [Link to talk](https://www.youtube.com/watch?v=maYUxaOCOHA&list=PLWAzLum_3a180ECznso6HvwstZthGSoEZ&index=21&ab_channel=SimonsFoundation)
-  * [Link to poster] (https://aas240-aas.ipostersessions.com/default.aspx?s=FD-DE-2C-7A-99-88-0A-A3-D6-85-C8-3D-3D-72-B8-BB&guestview=true)
+  * [Link to poster](https://aas240-aas.ipostersessions.com/default.aspx?s=FD-DE-2C-7A-99-88-0A-A3-D6-85-C8-3D-3D-72-B8-BB&guestview=true)
   * Paper in prep
 
 <img src="../files/streams.gif" alt="drawing" width="600"/>
