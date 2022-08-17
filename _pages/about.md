@@ -75,7 +75,7 @@ Links
   * [Link to poster](https://aas240-aas.ipostersessions.com/default.aspx?s=FD-DE-2C-7A-99-88-0A-A3-D6-85-C8-3D-3D-72-B8-BB&guestview=true)
   * Paper in prep
 
-<img src="../files/stream_inverted.gif" alt="drawing" width="800"/>
+<img src="../files/stream_inverted.gif" alt="drawing" width="900"/>
 
 This gif shows a simulation of a stellar stream in our Galaxy being perturbed by a 10^9 solar mass subhalo. It's made using the [Gala code](http://gala.adrian.pw/en/latest/) 
 
