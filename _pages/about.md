@@ -84,7 +84,7 @@ This gif shows a simulation of a stellar stream in our Galaxy being perturbed by
 
 ## Metal Poor GJ 660.1AB System 
 
-I'm also interested in the study of nearby UCDs. GJ 660.1AB is a binary system (M1 and M7 secondary) previously overlooked; we showed that the peculiarities in the spectrum of the secondary can be explained by its low metallicity. [Link to paper](https://arxiv.org/abs/1512.08659)
+I'm also interested in the study of nearby UCDs. GJ 660.1AB is a binary system (M1 and M7 secondary) previously overlooked; in [Aganze et al. 2016](https://arxiv.org/abs/1512.08659), we showed that the peculiarities in the spectrum of the secondary can be explained by its low metallicity. 
 
 <img src="../files/gj660.jpg" alt="drawing" width="400"/>
 
