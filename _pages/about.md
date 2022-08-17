@@ -46,13 +46,14 @@ Additional links:
 In [Aganze et al. 2022b](https://arxiv.org/abs/2204.07621), we used the sample from Aganze et al. 2022a to constrain the scaleheight and ages using a simulation that takes into account the stellar mass function, multiplicity, UCD evolutionary models, galactic structure and survey selection function. We found that late-M dwarfs are generally older than L and T dwarfs as expected from cooling models, with median ages ranging from 3.6-2.4 Gyr.
 
 <img src="../files/Ages_Aganze2022.jpeg" alt="drawing" width="400"/>
+
 Figure from the paper showing the simulated age (blue) vs inferred age (green) of UCD sub-populations. Dots show the median age of a population.
 
 ## Predicting Yields for the Next Generation of Surveys 
 
 The next generation of wide-field surveys will detect millions of UCDs at distances up to ~10 kpc and will revolutionize the study of these objects as a Galactic population. The advances will be achieved by the next generation of survey facilities with greater sensitivities at longer wavelengths (e.g. SPHEREx to 5 µm, JWST to 28 µm), enabling studies of spectral features not previously explored. Multi-epoch data will also provide astrometric information that can be used to measure distances and isolate populations by their motions.
 
-Predicting the science yields of these surveys requires predicting the UCD star counts and populations, and how they may vary based on different model assumptions. The purpose of this study is to evaluate the UCD yields for future surveys conducted with the James Webb Space Telescope, the Nancy Grace Roman Space Telescope, the Euclid Observatory, the Vera Rubin observatory, and SPHEREx for different assumptions about UCD population properties, Galactic structure, evolutionary, multiplicity, and metallicity, and determine which facilities are best suited for key UCD investigations. 
+Predicting the science yields of these surveys requires predicting the UCD star counts and populations, and how they may vary based on different model assumptions. I am evaluating UCD yields for future surveys conducted with the James Webb Space Telescope, the Nancy Grace Roman Space Telescope, the Euclid Observatory, the Vera Rubin observatory, and SPHEREx for different assumptions about UCD population properties, Galactic structure, evolutionary, multiplicity, and metallicity, and determine which facilities are best suited for key UCD investigations. 
 
 <img src="../files/surveys.jpeg" alt="drawing" width="600"/>
 
@@ -76,6 +77,7 @@ Links
   * Paper in prep
 
 <img src="../files/streams.gif" alt="drawing" width="600"/>
+
 This gif shows a simulation of a stellar stream in our Galaxy being perturbed by a 10^9 solar mass subhalo. It's made using the [Gala code](http://gala.adrian.pw/en/latest/) 
 
 ----
