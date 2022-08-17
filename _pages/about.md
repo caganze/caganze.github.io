@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate at UC San Diego interested in low-mass stars and brown dwarfs (ultracool dwarfs), galactic archaeology and dynamics and data science techniques for large surveys. I also work on gaps on globular cluster stellar streams as potential probes for dark matter. I am a part of the [Cool Stars Lab] (http://pono.ucsd.edu/~adam/wordpress/) under Prof. Adam Burgasser. 
+I am a final-year PhD candidate at UC San Diego interested in low-mass stars and brown dwarfs (ultracool dwarfs), galactic archaeology and dynamics and data science techniques for large surveys. I also work on gaps on globular cluster stellar streams as potential probes for dark matter. I am a part of the [Cool Stars Lab](http://pono.ucsd.edu/~adam/wordpress/) under Prof. Adam Burgasser. 
 
 
 ---
