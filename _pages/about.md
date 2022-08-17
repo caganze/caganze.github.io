@@ -37,7 +37,6 @@ In [Aganze et al. 2022a](https://arxiv.org/abs/2110.07672), we used traditional 
 ---
 Additional links:
 
-  * [Link to paper](https://arxiv.org/abs/2110.07672)
   * Link to CoolStars Poster: [Finding Ultracool Dwarfs in Deep HST-WFC3 Surveys with Machine Learning](https://zenodo.org/record/4566990#.YR_e0tNKj0o)
   * [ADS Link to Paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...924..114A/abstract)
 
