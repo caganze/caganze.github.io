@@ -26,7 +26,7 @@ Evolutionary models of Baraffe et al. 2003 showing UCD evolution with time
 
 # Galactic Archeology: Brown Dwarfs on a Galactic Scale
 
-## Finding Brown Dwarfs and Low-mass Stars in Deep HST Fields with Machine Learning
+## Finding Brown Dwarfs and Low-mass Stars in Deep HST Paraellel Fields with Machine Learning
 
 In [Aganze et al. 2022a](https://arxiv.org/abs/2110.07672), we used traditional index-selection methods, and machine learning techniques (random forests and neural networks) to isolate a sample of 164 M7-T9 ultracool dwarfs up to distances of ~2~kpc in the Galaxy. Similar surveys with JWST (such as the PASSAGES survey) will uncover a comparable number of objects in the galactic thick disk and halo.
 
@@ -40,7 +40,7 @@ Additional links:
   * Link to CoolStars Poster: [Finding Ultracool Dwarfs in Deep HST-WFC3 Surveys with Machine Learning](https://zenodo.org/record/4566990#.YR_e0tNKj0o)
   * [ADS Link to Paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...924..114A/abstract)
 
-## Scaleheights and Ages Brown Dwarfs and Low-Mass Stars in Deep HST Fields with Machine Learning
+## Scaleheights and Ages Brown Dwarfs and Low-Mass Stars in Deep HST Parallel Fields
 
 In [Aganze et al. 2022b](https://arxiv.org/abs/2204.07621), we used the sample from Aganze et al. 2022a to constrain the scaleheight and ages using a simulation that takes into account the stellar mass function, multiplicity, UCD evolutionary models, galactic structure and survey selection function. We found that late-M dwarfs are generally older than L and T dwarfs as expected from cooling models, with median ages ranging from 3.6-2.4 Gyr.
 
