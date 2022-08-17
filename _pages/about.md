@@ -99,7 +99,7 @@ I have previously mentored and I am currently involved in training UCSD undergra
 Links 
   * Research Notes from Last Summer
     - [Gong et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6521)
-    - [Gutierrez et al. 2022] (https://iopscience.iop.org/article/10.3847/2515-5172/ac6522)
+    - [Gutierrez et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6522)
   * Research Note on spectral binaries (in prep)
 
 
