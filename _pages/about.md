@@ -97,9 +97,9 @@ Moderate resolution SpeX SXD spectrum of the primary showing prominent atomic an
 I have previously mentored and I am currently involved in training UCSD undergraduate students on summer projects that involve using supervised learning techniques (random forests and neural networks) to classify brown dwarfs and to identify rare populations (binaries, subdwarfs). 
 
 Links 
-  * Research Notes from Last Summer
-    - [Gong et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6521)
-    - [Gutierrez et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6522)
+  * Research Notes from last summer
+    - [Gong et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6521): Color Classification with SDSS, UKIDSS, and WISE Photometry 
+    - [Gutierrez et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6522): Color Classification with PanSTARRS, 2MASS, UKIDSS, and WISE Photometry
   * Research Note on spectral binaries (in prep)
 
 
