@@ -7,12 +7,8 @@ author_profile: false
 
 # Gaps in Globular Cluster Stellar Streams as Probes for Dark Matter in M31 and Other Galaxies
 
-Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). I predict the detectability of these gaps in nearby galaxies with the Nancy Grace Roman Telescope. 
-
-This research is done in collaboration primarily  with [Dr. Sarah Pearson](http://drsarahpearson.com/) and [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/)
-
-Links
-  * [Link to paper](https://arxiv.org/abs/2305.12045)
+Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). 
+This research is done in collaboration primarily  with [Dr. Sarah Pearson](http://drsarahpearson.com/) and [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/). In [Aganze et al. 2023](https://arxiv.org/abs/2305.12045), we predict that Roman should be able to detect these gaps in galaxies within 3 Mpc with resolved stars. 
 
 <img src="../files/stream_inverted.gif" alt="drawing" width="900"/>
 
@@ -59,7 +55,8 @@ Moderate resolution SpeX SXD spectrum of the primary showing prominent atomic an
 I have mentored UCSD undergraduate students on summer projects that involve using supervised learning techniques (random forests and neural networks) to classify brown dwarfs and to identify rare populations (binaries, subdwarfs). 
 
 Links:
-    * [Gong et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6521): Color Classification with SDSS, UKIDSS, and WISE Photometry 
-    * [Gutierrez et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6522): Color Classification with PanSTARRS, 2MASS, UKIDSS, and WISE 
-    * [Desai et al. 2023](https://iopscience.iop.org/article/10.3847/2515-5172/acb54a): classifying spectral binaries with machine learning
+
+  * [Gong et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6521): Color Classification with SDSS, UKIDSS, and WISE Photometry 
+  * [Gutierrez et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6522): Color Classification with PanSTARRS, 2MASS, UKIDSS, and WISE 
+  * [Desai et al. 2023](https://iopscience.iop.org/article/10.3847/2515-5172/acb54a): classifying spectral binaries with machine learning
 
