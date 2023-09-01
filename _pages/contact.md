@@ -7,6 +7,4 @@ redirect_from:
   - /findme
 ---
 
-Email: caganze@ucsd.edu\
-Github: caganze\
-Building: Science and Engineering Research Facility (SERF, 3rd Floor)
+Email: caganze@stanford.edu, caganze@gmail.com
