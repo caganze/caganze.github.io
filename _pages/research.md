@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /research/
 title: " "
 author_profile: false
@@ -17,7 +16,7 @@ This gif shows a simulation of a stellar stream in our Galaxy being perturbed by
 
 
 ---
-# Galactic Archeology wuth Brown Dwarfs at Large Distances 
+# Galactic Archeology with Brown Dwarfs at Large Distances 
 
 ## Finding Brown Dwarfs and Low-mass Stars in Deep HST Paraellel Fields with Machine Learning
 
