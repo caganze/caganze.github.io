@@ -1,7 +1,7 @@
 ---
 permalink: /press/
 title: "Profiles and Press Articles"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /press/
   - /press.html

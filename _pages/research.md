@@ -3,6 +3,7 @@ layout: archive
 permalink: /research/
 title: " "
 author_profile: false
+layout: single
 ---
 
 # Gaps in Globular Cluster Stellar Streams as Probes for Dark Matter in M31 and Other Galaxies
