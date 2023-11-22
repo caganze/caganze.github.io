@@ -7,18 +7,15 @@ layout: single
 
 # Gaps in Globular Cluster Stellar Streams as Probes for Dark Matter in M31 and Other Galaxies
 
-Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g GD-1). 
-This research is done in collaboration primarily  with [Dr. Sarah Pearson](http://drsarahpearson.com/) and [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/). In [Aganze et al. 2023](https://arxiv.org/abs/2305.12045), we predict that Roman should be able to detect these gaps in galaxies within 3 Mpc with resolved stars. 
+Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g. [GD-1](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...38B/abstract)). In [Aganze et al. 2023](https://arxiv.org/abs/2305.12045), we predict that the Nancy Grace Roman Telescope should be able to detect these gaps in galaxies within 3 Mpc with resolved stars. This research is done in collaboration primarily with [Dr. Sarah Pearson](http://drsarahpearson.com/) and [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/).
 
-<img src="../files/stream_inverted.gif" alt="drawing" width="900"/>
-
-This gif shows a simulation of a stellar stream in our Galaxy being perturbed by a 10^8 solar mass subhalo. It's made using the [Gala code](http://gala.adrian.pw/en/latest/) 
-
+<img src="../files/gaps_visual_detections_nometcut30_40.jpeg" alt="drawing" width="900"/>
+A simulation of a mock image of a metal-poor GC stream in an external galaxy for 1-hour exposure with Roman with resolved stars. The gap from a dark matter subhalo of $\approx 5 \times 10^6$ solar masses is show at the center.
 
 ---
 # Galactic Archeology with Brown Dwarfs at Large Distances 
 
-## Finding Brown Dwarfs and Low-mass Stars in Deep HST Paraellel Fields with Machine Learning
+## Finding Brown Dwarfs and Low-mass Stars in Deep HST Parallel Fields with Machine Learning
 
 In [Aganze et al. 2022a](https://arxiv.org/abs/2110.07672), we used traditional index-selection methods, and machine learning techniques (random forests and neural networks) to isolate a sample of 164 M7-T9 ultracool dwarfs up to distances of ~2~kpc in the Galaxy. Similar surveys with JWST (such as the PASSAGES survey) will uncover a comparable number of objects in the galactic thick disk and halo.
 
@@ -59,4 +56,5 @@ Links:
   * [Gong et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6521): Color Classification with SDSS, UKIDSS, and WISE Photometry 
   * [Gutierrez et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6522): Color Classification with PanSTARRS, 2MASS, UKIDSS, and WISE 
   * [Desai et al. 2023](https://iopscience.iop.org/article/10.3847/2515-5172/acb54a): classifying spectral binaries with machine learning
+
 
