@@ -15,9 +15,7 @@ My research interests are in the field of **galactic archeology**. I study **ste
 
 *Latest news*
 ------------
-
-*>>06/28/2024: I'm giving a public talk at Lick Observatory. Tickets are available [here](https://www.lickobservatory.org/events/music-of-the-spheres/mos-2024-07-13/)
-
+*>> 01/17/2024:  I'm giving a public talk at Lick Observatory. Tickets are available [here](https://www.lickobservatory.org/events/music-of-the-spheres/mos-2024-07-13/)
 *>>01/17/2024: [STScI/NASA's write-up](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/) of our recent paper* 
 
 *>> 10/20/2023: I have now been appointed as a visiting researcher at UC Santa Cruz*
