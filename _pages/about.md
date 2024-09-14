@@ -16,7 +16,7 @@ My research interests are in the field of **galactic archeology**. I study **ste
 **Latest news**
 ------------
 
-*>>[NSF–DOE Rubin Observatory Will Detect Thousands of Elusive Brown Dwarfs, Unlocking Milky Way Mysteries](https://rubinobservatory.org/news/rubin-detect-brown-dwarfs)*
+*>> [NSF–DOE Rubin Observatory Will Detect Thousands of Elusive Brown Dwarfs, Unlocking Milky Way Mysteries](https://rubinobservatory.org/news/rubin-detect-brown-dwarfs)*
 
 *>> [NASA’s Roman to Search for Signs of Dark Matter Clumps](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/)* 
 
