@@ -5,6 +5,13 @@ author_profile: false
 layout: single
 ---
 
+# Stellar streams in the DESI Survey
+
+I am a member of the DESI Milky Way survey. [DESI](https://www.desi.lbl.gov/the-desi-survey/) is on track to obtain mid-resolution optical spectra for >7 million stars in the Galaxy with measured radial velocities at a precision of 1-10 km/s and a metallicity precision of 0.1 dex, allowing us to probe the Milky Way halo in detail. I'm particularly interested in finding previously unidentified remnants of disrupting(ed) dwarf galaxies and globular clusters. In the end, we would like to compare the properties of these objects to expectations from cosmological simulations by generating mock observations that take into account the survey selection. I am currently working with the [Symphony suite, MW-est and MW-EDEn suites](https://web.stanford.edu/group/gfc/symphony/build/html/simulations.html). We would also like to extend these mocks to make predictions for the upcoming Rubin Observatory.
+
+Stay tuned for our results.
+<img src="../files/desi_logo.jpg" alt="drawing" width="900"/>
+
 # Gaps in Globular Cluster Stellar Streams as Probes for Dark Matter in M31 and Other Galaxies
 
 Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g. [GD-1](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...38B/abstract)). In [Aganze et al. 2023](https://arxiv.org/abs/2305.12045), we predict that the Nancy Grace Roman Telescope should be able to detect these gaps in galaxies within 3 Mpc with resolved stars. This research is done in collaboration primarily with [Dr. Sarah Pearson](http://drsarahpearson.com/) and [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/).
