@@ -13,7 +13,7 @@ My research interests are in the field of **galactic archeology**. I study **ste
 
 
 
-***Latest news***
+#### *Latest news*
 ------------
 
 *>> [NSF–DOE Rubin Observatory Will Detect Thousands of Elusive Brown Dwarfs, Unlocking Milky Way Mysteries](https://rubinobservatory.org/news/rubin-detect-brown-dwarfs)*
