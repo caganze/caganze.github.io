@@ -54,7 +54,7 @@ I'm also interested in the study of nearby UCDs. GJ 660.1AB is a binary system (
 
 Moderate resolution SpeX SXD spectrum of the primary showing prominent atomic and molecular features in its atmosphere
 
-# Undergraduate Mentorship
+# Undergraduate Mentoring
 
 I have mentored UCSD undergraduate students on summer projects that involve using supervised learning techniques (random forests and neural networks) to classify brown dwarfs and to identify rare populations (binaries, subdwarfs). 
 
