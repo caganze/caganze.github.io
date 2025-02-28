@@ -43,7 +43,8 @@ In [Aganze et al. 2022a](https://arxiv.org/abs/2110.07672), we used traditional 
 
  <img src="../files/example_spectra_and_image.jpg"  alt="drawing" width="400"/>
 
-2D image and spectra for a field in the WFC3 survey
+ 2D image and spectra for a field in the WFC3 survey
+ 
 ---
 Links:
 
