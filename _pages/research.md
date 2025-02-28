@@ -25,6 +25,13 @@ A simulation of a mock image of a metal-poor GC stream in an external galaxy for
 
 ---
 # Galactic Archeology with Brown Dwarfs at Large Distances 
+## Scaleheights and Ages Brown Dwarfs and Low-Mass Stars in Deep HST Parallel Fields
+
+In [Aganze et al. 2022b](https://arxiv.org/abs/2204.07621), we used the sample from Aganze et al. 2022a to constrain the scaleheight and ages using a simulation that takes into account the stellar mass function, multiplicity, UCD evolutionary models, galactic structure and survey selection function. We found that late-M dwarfs are generally older than L and T dwarfs as expected from cooling models, with median ages ranging from 3.6-2.4 Gyr.
+
+<img src="../files/Ages_Aganze2022.jpeg" alt="drawing" width="400"/>
+
+Figure from the paper showing the simulated age (blue) vs inferred age (green) of UCD sub-populations. Dots show the median age of a population.
 
 ## Finding Brown Dwarfs and Low-mass Stars in Deep HST Parallel Fields with Machine Learning
 
@@ -34,19 +41,15 @@ In [Aganze et al. 2022a](https://arxiv.org/abs/2110.07672), we used traditional 
 
  Top Left: Cutout from a processed image of an L dwarf in the WISP survey with the F140W filter (1.4 µm). Top Right: a 2D G141 (1.1-1.7 µm) spectrum of the same pointing. Bottom: 1D- Spectrum fitted to best-match spectral templates of dwarfs and metal-poor subdwarfs.
 
+ <img src="../files/example_spectra_and_image.jpg"  alt="drawing" width="400"/>
+ 2D image and spectra for a field in the WFC3 survey
 ---
 Links:
 
   * Link to CoolStars Poster: [Finding Ultracool Dwarfs in Deep HST-WFC3 Surveys with Machine Learning](https://zenodo.org/record/4566990#.YR_e0tNKj0o)
   * [ADS Link to Paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...924..114A/abstract)
 
-## Scaleheights and Ages Brown Dwarfs and Low-Mass Stars in Deep HST Parallel Fields
 
-In [Aganze et al. 2022b](https://arxiv.org/abs/2204.07621), we used the sample from Aganze et al. 2022a to constrain the scaleheight and ages using a simulation that takes into account the stellar mass function, multiplicity, UCD evolutionary models, galactic structure and survey selection function. We found that late-M dwarfs are generally older than L and T dwarfs as expected from cooling models, with median ages ranging from 3.6-2.4 Gyr.
-
-<img src="../files/Ages_Aganze2022.jpeg" alt="drawing" width="400"/>
-
-Figure from the paper showing the simulated age (blue) vs inferred age (green) of UCD sub-populations. Dots show the median age of a population.
 
 # Local M Dwarfs
 
