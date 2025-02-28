@@ -42,7 +42,8 @@ In [Aganze et al. 2022a](https://arxiv.org/abs/2110.07672), we used traditional 
  Top Left: Cutout from a processed image of an L dwarf in the WISP survey with the F140W filter (1.4 µm). Top Right: a 2D G141 (1.1-1.7 µm) spectrum of the same pointing. Bottom: 1D- Spectrum fitted to best-match spectral templates of dwarfs and metal-poor subdwarfs.
 
  <img src="../files/example_spectra_and_image.jpg"  alt="drawing" width="400"/>
- 2D image and spectra for a field in the WFC3 survey
+
+2D image and spectra for a field in the WFC3 survey
 ---
 Links:
 
