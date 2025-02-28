@@ -21,7 +21,7 @@ Stay tuned for our results.
 Cosmological simulations that include dark matter predict the existence of low-mass subhalos. These subhalos can perturb thin stellar streams formed by tidal disruption of globular clusters, creating a gap-like feature like those detected in Gaia data (e.g. [GD-1](https://ui.adsabs.harvard.edu/abs/2019ApJ...880...38B/abstract)). In [Aganze et al. 2023](https://arxiv.org/abs/2305.12045), we predict that the Nancy Grace Roman Telescope should be able to detect these gaps in galaxies within 3 Mpc with resolved stars. This research is done in collaboration primarily with [Dr. Sarah Pearson](http://drsarahpearson.com/) and [Dr. Tjitske Starkenburg](https://tstarkenburg.github.io/).
 
 <img src="../files/gaps_visual_detections_nometcut30_40.jpeg" alt="drawing" width="900"/>
-A simulation of a mock image of a metal-poor GC stream in an external galaxy for 1-hour exposure with Roman with resolved stars. The gap from a dark matter subhalo of $\approx 5 \times 10^6$ solar masses is show at the center.
+A simulation of a mock image of a metal-poor GC stream in an external galaxy for 1-hour exposure with Roman with resolved stars. The gap from a dark matter subhalo of $\approx 5 \times 10^6$ solar masses is shown at the center.
 
 ---
 # Galactic Archeology with Brown Dwarfs at Large Distances 
