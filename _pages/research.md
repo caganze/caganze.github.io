@@ -58,6 +58,12 @@ I'm also interested in the study of nearby UCDs. GJ 660.1AB is a binary system (
 
 Moderate resolution SpeX SXD spectrum of the primary showing prominent atomic and molecular features in its atmosphere
 
+# Posters
+
+[![Stream gaps with Roman](../files/poster1.jpg "View Poster 0")](https://aas240-aas.ipostersessions.com/Default.aspx?s=FD-DE-2C-7A-99-88-0A-A3-D6-85-C8-3D-3D-72-B8-BB)
+[![Brown brown dwarfs in upcoming surveys](../files/poster0.jpg "View Poster 0")](https://aas237-aas.ipostersessions.com/default.aspx?s=2D-37-9B-ED-84-A3-58-9C-39-DB-DE-0B-A2-13-B7-27&guestview=true)
+
+
 # Undergraduate Mentoring
 
 I have mentored UCSD undergraduate students on summer projects that involve using supervised learning techniques (random forests and neural networks) to classify brown dwarfs and to identify rare populations (binaries, subdwarfs). 
@@ -68,4 +74,6 @@ Links:
   * [Gutierrez et al. 2022](https://iopscience.iop.org/article/10.3847/2515-5172/ac6522): Color Classification with PanSTARRS, 2MASS, UKIDSS, and WISE 
   * [Desai et al. 2023](https://iopscience.iop.org/article/10.3847/2515-5172/acb54a): classifying spectral binaries with machine learning
 
+# Outreach
+ [Public talk: Music of the Spheres Program](https://www.lickobservatory.org/events/music-of-the-spheres/mos-2024-07-13/program-2024-07-13/)
 
