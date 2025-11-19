@@ -16,7 +16,13 @@ My research interests are in the field of **galactic archeology**. I study **ste
 #### *Latest news*
 ------------
 
-*>> [NSF–DOE Rubin Observatory Will Detect Thousands of Elusive Brown Dwarfs, Unlocking Milky Way Mysteries](https://rubinobservatory.org/news/rubin-detect-brown-dwarfs)*
+*>> [Blockbuster New Vera Rubin Observatory Will Change Astronomy Forever](https://www.scientificamerican.com/article/blockbuster-new-vera-rubin-observatory-will-change-astronomy-forever/)* (Scientific American)
 
-*>> [NASA’s Roman to Search for Signs of Dark Matter Clumps](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/)* 
+*>> [See the First Breathtaking Images Captured by the Powerful New Telescope at the Rubin Observatory](https://www.smithsonianmag.com/smart-news/see-the-first-breathtaking-images-captured-by-the-powerful-new-telescope-at-the-rubin-observatory-180986867/)* (Smithsonian Magazine)
+
+*>> [Cocytos: A New Stellar Stream](https://astrobites.org/2025/05/02/cocytos/)* (Astrobites)
+
+*>> [NSF–DOE Rubin Observatory Will Detect Thousands of Elusive Brown Dwarfs, Unlocking Milky Way Mysteries](https://rubinobservatory.org/news/rubin-detect-brown-dwarfs)* (Rubin Observatory)
+
+*>> [NASA’s Roman to Search for Signs of Dark Matter Clumps](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/)* (NASA) 
 
