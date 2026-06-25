@@ -6,4 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<iframe src="../files/caganze_res_updated.pdf" width="600" height="500"></iframe>
+<p><a href="/files/caganze_res_updated.pdf">Download CV (PDF)</a></p>
+
+<iframe src="/files/caganze_res_updated.pdf" width="100%" height="800px" style="border:none;"></iframe>
