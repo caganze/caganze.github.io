@@ -16,7 +16,6 @@ My research interests are in the field of **galactic archeology**. I study **ste
 - [Honorable Mention, 2025 Joseph A. Johnson Award for Excellence](https://www.aip.org/aip/2025-joseph-a-johnson-award-goes-to-morgan-state-university-assistant-professor-stacyann-nelson) (AIP / NSBP)
 - [Blockbuster New Vera Rubin Observatory Will Change Astronomy Forever](https://www.scientificamerican.com/article/blockbuster-new-vera-rubin-observatory-will-change-astronomy-forever/) (Scientific American)
 - [These are the first images from Earth's giant new telescope](https://www.nationalgeographic.com/science/article/first-images-vera-rubin-observatory-astronomy-space) (National Geographic)
-- [See the First Breathtaking Images Captured by the Powerful New Telescope at the Rubin Observatory](https://www.smithsonianmag.com/smart-news/see-the-first-breathtaking-images-captured-by-the-powerful-new-telescope-at-the-rubin-observatory-180986867/) (Smithsonian Magazine)
 - [Cocytos: A New Stellar Stream](https://astrobites.org/2025/05/02/cocytos/) (Astrobites)
 {:.news}
 
